@@ -1,6 +1,6 @@
 # CoroutinesExample 
 
-# How Suspendinf functions works
+# How Suspending functions works
 Let's say we have a function named myFunction.
 
 
